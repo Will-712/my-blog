@@ -1,3 +1,6 @@
+---
+title: Eng Guide
+---
 参考 https://www.bilibili.com/video/BV1TD4y1q7u9?p=15&spm_id_from=333.880.my_history.page.click
 
 # learn English mode（适用于any languages）

@@ -1,6 +1,9 @@
+---
+title: CS Guide
+---
 参考: https://csdiy.wiki/ & https://teachyourselfcs.com/
 # CS mode
-基于mode(物质-联系➡new system)
+基于mode(物质-联系->new system)
 ## 1.1 Hardware
 Hardware is fundamental, I can't believe anyone who know programming but don't know any hardware. hardware built computer and whole internet world
 
