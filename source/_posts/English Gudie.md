@@ -3,7 +3,7 @@ title: Eng Guide
 ---
 参考 https://www.bilibili.com/video/BV1TD4y1q7u9?p=15&spm_id_from=333.880.my_history.page.click
 
-# learn English mode（适用于any languages）
+# Learn English mode（适用于any languages）
 基于mode(leaning-test-produce)，多个level(word,idiom,sentence,pargraph,arcticle)
 
 ## Learning=reading+listening
@@ -20,7 +20,6 @@ varation：对句子进行同义转换，对段落进行事件概括or复述
 speaking(thinking)：对生活中出现的一切进行英语转化，并试图更加详细表达
 
 writting：punctuation is key；syntax；specific adjective；explore vocab;check it in end
-
 
 # English Guide
 ## 兴趣开始 or find your habit
@@ -42,14 +41,14 @@ just news：https://www.huffpost.com/
 tech news：https://www.engadget.com/
 
 # English Plan
-morning：10 mins doing construct or variation
+morning：10 mins constructing sentence with 4 words or varying sentence
 
 worktime：
-1. listening to audio and write down to notebook
+1. 30mins listening to audio and write down to notebook
 2. 30 mins reading or leaning words
 
 freetime：
 1. describing things in your mind
-2. browse online or watch movies
+2. browse extranet or watch english movies
 
-night：write your diary in English
+night：10mins writting your diary in English
